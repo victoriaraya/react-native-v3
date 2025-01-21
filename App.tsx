@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>An app to track the phases of the moon</Text>
+      <Text>An app to track the phases of the moon 🌙</Text>
       <StatusBar style="auto" />
     </View>
   );
