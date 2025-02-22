@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <View style={{ borderBottomWidth: 5, borderBottomColor: 'blue', paddingHorizontal: 10, paddingVertical: 16 }}>
+      <View style={{ borderBottomWidth: 5, borderBottomColor: 'blue', paddingHorizontal: 12, paddingVertical: 16 }}>
       <Text style={{ fontSize: 18, fontWeight: '300' }}>Coffee </Text> 
       <StatusBar style="auto" />
       </View>
