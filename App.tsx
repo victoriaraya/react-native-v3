@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <View style={{ borderBottomWidth: 5, borderBottomColor: 'blue', paddingHorizontal: 12, paddingVertical: 16 }}>
-      <Text style={{ fontSize: 18, fontWeight: '300' }}>Coffee!</Text> 
+      <Text style={{ fontSize: 18, fontWeight: '300' }}>tea</Text> 
       <StatusBar style="auto" />
       </View>
     </View>
